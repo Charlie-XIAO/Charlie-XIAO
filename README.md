@@ -1,7 +1,7 @@
 - Hi, I'm Charlie Xiao @Charlie-XIAO.
-- I'm interested in math and science, playing the piano, etc.
-- I've got the Bachelor of Arts and Science degree at NYU Shanghai, double majoring in Honors Mathematics and Computer Science.
-- I'm currently pursuing the Master of Science in Computational Science and Engineering at Harvard University.
+- I like coding. I work on open source projects and develop my own small apps.
+- I'm currently pursuing M.S. in Computational Science and Engineering at John A. Paulson School of Engineering and Applied Sciences (SEAS), Harvard University.
+- I've got B.S. at NYU Shanghai, double majoring in Honors Mathematics and Computer Science.
 - You may reach me via email [yx2436@nyu.edu](mailto:yx2436@nyu.edu) or [yaoxiao@g.harvard.edu](mailto:yaoxiao@g.harvard.edu).
 - For more information, you may check my [personal website](https://charlie-xiao.github.io).
 
